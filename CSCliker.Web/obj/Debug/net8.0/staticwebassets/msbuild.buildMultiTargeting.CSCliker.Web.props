@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CSCliker.Web.props" />
+</Project>
